@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "tutorial-jetpack"
+rootProject.name = "market"
 include(":app")
  
